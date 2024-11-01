@@ -1,0 +1,20 @@
+.error {
+    color: #ff0000;
+    display: block;
+}
+.description.description_password.error, .description.nomatch_email.error, .description.nomatch_password.error {
+    color: #ff0000;
+}
+.wp-admin select {
+    width: 30%;
+}
+.woocommerce_page_custom_submenu_page_for_woocommece_snapsolv #wpfooter { display: none;}
+
+.snap_solv_container input[type="text"], .snap_solv_container input[type="email"], .snap_solv_container input[type="password"], .snap_solv_container select {
+    margin: 0px;
+    padding: 9px 10px;
+    width: 32%;
+}
+#term_condition_privacy_policy-error {
+    position: absolute;
+}
